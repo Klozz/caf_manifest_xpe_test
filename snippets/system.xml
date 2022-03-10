@@ -24,7 +24,7 @@
   <project name="device/google/atv"/>
   <project name="device/google/contexthub"/>
   <project name="device/google/cuttlefish"/>
-  <project name="device/google/cuttlefish_prebuilts"/>
+  <project name="device/google/cuttlefish_prebuilts" clone-depth="1" />
   <project name="device/google/trout"/>
   <project name="device/google/vrservices"/>
   <project name="device/google_car"/>
